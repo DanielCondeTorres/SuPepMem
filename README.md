@@ -57,7 +57,7 @@ The program is written in Python language so Python version 3 or higher is requi
 - [mpl_toolkits.axes_grid1](https://matplotlib.org/stable/tutorials/toolkits/axes_grid.html)
 - [Numpy](https://numpy.org)
 - [Matplotlib](https://matplotlib.org)
-
+-[Supepdex]*
 
 To be able to use these libraries, it is recommended to work with anaconda environment.
 
@@ -77,6 +77,10 @@ conda install pip
 ```
 pip install module
 ```
+
+
+### Required files :computer: 📋
+
 
 <!-- Usage -->
 ## Usage ⚙️
