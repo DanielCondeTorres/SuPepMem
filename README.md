@@ -26,7 +26,6 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 [![GitHub license](https://img.shields.io/github/license/Eines-Informatiques-Avancades/Project-II)](https://github.com/Eines-Informatiques-Avancades/Project-II)
 ![GitHub language count](https://img.shields.io/github/languages/count/Eines-Informatiques-Avancades/Project-II)
 
-![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 </div>
 
@@ -112,11 +111,8 @@ python supepmem_analysis.py
          -alt LAST_TIME_AVERAGES
          -ast SKIP_TIME_BETWEEN_FRAMES_AVERAGING
 ```
-This will compile and execute the program and all the statistic calculations will also be performed. It is **important** to point out that in order to perform the whole program, the user is asked a couple of questions related to the statistical study, so keep an eye on this, otherwise the program will not reach completion.
+This will execute the program and all the statistic calculations will also be performed. It is **important** to point out that in order to...
 
-Once the process has been completed, the unnecessary files are cleaned and the output files are sent to their corresponding directories (Results -> Data and Figures).
-
-**Note**: Due to the modular nature of the program, it can be executed in parts (or modules) by using the following commands:
 
 ```
 # Compilation of the Main and Gofr programs (Fortran programming language)
@@ -137,7 +133,7 @@ make clean
 # If the user wants to return the repository to its original state (remove unnecessary files and results), the following command can be used
 make clean_all
 ```
-The program generates an .xyz file containing the trajectory of the system. It is highly recommended the use of [VMD](https://www.ks.uiuc.edu/Research/vmd/) in order to visualize the results.
+
 
 ## Wiki 📖
 
