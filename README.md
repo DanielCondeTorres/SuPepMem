@@ -40,7 +40,7 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 
 
 <!-- Pre-requirements -->
-### General Pre-requirements 📋
+### General Pre-requirements :computer:
 
 In order to run the program it is necessary to have the following requirements installed:
 
@@ -78,9 +78,13 @@ conda install pip
 pip install module
 ```
 
+* Supepdex is an external module (supepdex.py) of the main program SuPepMem.py needed to ...
 
-### Required files :computer: 📋
-
+### Required files 📋
+- A TPR file with the description of the system.
+- A XTC file with the trajectory of the simulation with no correction.
+- The folder where those files are, i.e. the system folder.
+- The folder for the outcome of the analysis.
 
 <!-- Usage -->
 ## Usage ⚙️
@@ -145,10 +149,9 @@ The joint work tasks will be carried out (to a greater extent) by those members 
 <!-- FAQs -->
 ## FAQs
 
-### What is that paralel file? Wasn't the program a serie algorithm?
+### What is SuPepMem?
 
-Paralel directory is a program that uses mpi, so you have a paralelize version of the program in this file.
-
+SuPepMem is a living project. It is expected to grow with simulations of more peptides in different membrane models and using different atomistic and coarse grained force fields. 
 
 <!-- CONTRIBUTING -->
 ## Contributing 🖇️
@@ -156,4 +159,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
+## License :green_book:
+Data in SuPepMem is made available under an CCBY 4.0 License. You are entitled to access and use the services and download or extract data. If you need the data from the SuPepMem Database for research, please cite our publications.
 
