@@ -44,7 +44,7 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
     <li><a href="#Distribution-of-tasks">Distribution of tasks</a></li>
     <li><a href="##FAQs">FAQs</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="##Cite">Cite</a></li>
+    <li><a href="#cite-mortar_board">Cite</a></li>
   </ol>
 </details>
 
