@@ -30,6 +30,7 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#Pre-requirements">Pre-requirements</a></li>
+    <li><a href="#Required-files">Pre-requirements</a></li>
     <li><a href="#Usage">Usage</a></li>
     <li><a href="#wiki">Wiki</a></li>
     <li><a href="#Distribution-of-tasks">Distribution of tasks</a></li>
@@ -80,6 +81,8 @@ pip install module
 
 *Supepdex is an external module (supepdex.py) of the main program SuPepMem.py needed to ...
 
+
+<!-- Required-files -->
 ### Required files 📋
 - A TPR file with the description of the system.
 - A XTC file with the trajectory of the simulation with no correction.
@@ -146,7 +149,7 @@ Project coordinator: Ángel Piñeiro, M.Bastos and Rebeca García-Fandino
 
 
 <!-- FAQs -->
-## FAQs
+## FAQs :interrobang:
 
 ### What is SuPepMem?
 
