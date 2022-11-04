@@ -114,25 +114,6 @@ python supepmem_analysis.py
 This will execute the program and all the statistic calculations will also be performed. It is **important** to point out that in order to...
 
 
-```
-# Compilation of the Main and Gofr programs (Fortran programming language)
-make compile
-
-# Execution of the Main and Gofr programs (Fortran programming language)
-make run
-
-# Computes the statistical analysis and generates the corresponding figures as outputs (Python programming language)
-make statistic
-
-# Move data files and figures (outputs) to  the Results folder (Please, don't do it before the statistical analysis, the files to be analyzed must be in the working folder) 
-make move
-
-# Removes objects, executables and unnecessary .mod files
-make clean
-
-# If the user wants to return the repository to its original state (remove unnecessary files and results), the following command can be used
-make clean_all
-```
 
 
 ## Wiki 📖
