@@ -12,7 +12,7 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 </p>
 
 <p align="center">
-![giphy](https://user-images.githubusercontent.com/117435891/199937492-0cd6dc84-f569-42b6-9db0-32fed0aeed41.gif)
+  <img src="https://user-images.githubusercontent.com/117435891/199937492-0cd6dc84-f569-42b6-9db0-32fed0aeed41.gif" alt="animated" />
 </p>
 
 
