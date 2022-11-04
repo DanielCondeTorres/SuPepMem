@@ -34,8 +34,9 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 <details>
   <summary>Table of Contents</summary>
   <ol>
+    <li><a href="#Introduction">Introduction</a></li>
     <li><a href="#Pre-requirements">Pre-requirements</a></li>
-    <li><a href="#Required-files">Pre-requirements</a></li>
+    <li><a href="#Required-files">Required-files</a></li>
     <li><a href="#Usage">Usage</a></li>
     <li><a href="#wiki">Wiki</a></li>
     <li><a href="#Distribution-of-tasks">Distribution of tasks</a></li>
@@ -43,6 +44,9 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
    <li><a href="#contributing">Contributing</a></li>
   </ol>
 </details>
+
+<!-- Introduction --> 
+
 
 
 <!-- Pre-requirements -->
