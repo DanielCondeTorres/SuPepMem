@@ -43,7 +43,7 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
     <li><a href="#wiki">Wiki</a></li>
     <li><a href="#Distribution-of-tasks">Distribution of tasks</a></li>
     <li><a href="##FAQs">FAQs</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#contributing-%EF%B8%8F">Contributing</a></li>
     <li><a href="#cite-mortar_board">Cite</a></li>
   </ol>
 </details>
@@ -162,7 +162,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-<!-- Cite --> <a name = "##Cite"></a>
+<!-- Cite --> 
 ## Cite :mortar_board:
 
 [Citation: F. Suarez-Leston, M. Calvelo, G. F Tolufashe, A. Muñoz, U. Veleiro, C. Porto, M. Bastos, Á. Piñeiro, R. Garcia-Fandino, SuPepMem: A database of innate immune system peptides and their cell membrane interactions, Comput. Struct. Biotechnol. J. 2022, 20, 874-881](https://www.sciencedirect.com/science/article/pii/S2001037022000320)
