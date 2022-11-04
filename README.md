@@ -50,7 +50,7 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 </details>
 
 <!-- Introduction --> 
-### Introduction :movie_camera:
+## Introduction :movie_camera:
 In SuPepMem the simulations have been performed with the [martini_v2.2](http://cgmartini.nl/) force field, using the [Gromacs 2020](https://www.gromacs.org/) Software, highlighting the following simulation parameters:
 - Simulation length (ns): 5000
 - Electric field (kJ mol-1 nm-1 e-1): 0
@@ -59,7 +59,7 @@ In SuPepMem the simulations have been performed with the [martini_v2.2](http://c
 -  Pressure (Bar): 1 (parrinello-rahman semiisotropic)
 
 <!-- Pre-requirements -->
-### General Pre-requirements :computer:
+## General Pre-requirements :computer:
 
 In order to run the program it is necessary to have the following requirements installed:
 
@@ -102,7 +102,7 @@ pip install module
 
 
 <!-- Required-files -->
-### Required files 📋
+## Required files 📋
 - A TPR file with the description of the system.
 - A XTC file with the trajectory of the simulation with no correction.
 - The folder where those files are, i.e. the system folder.
