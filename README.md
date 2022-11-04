@@ -162,7 +162,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-<!-- Cite -->
+<!-- Cite --> <a name = "##Cite"></a>
 ## Cite :mortar_board:
 
 [Citation: F. Suarez-Leston, M. Calvelo, G. F Tolufashe, A. Muñoz, U. Veleiro, C. Porto, M. Bastos, Á. Piñeiro, R. Garcia-Fandino, SuPepMem: A database of innate immune system peptides and their cell membrane interactions, Comput. Struct. Biotechnol. J. 2022, 20, 874-881](https://www.sciencedirect.com/science/article/pii/S2001037022000320)
