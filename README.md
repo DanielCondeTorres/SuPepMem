@@ -9,10 +9,12 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/66941005/155822626-9a3d667d-cf97-44cb-b0a4-29d1b485c6d4.gif" alt="animated" />
- 
- <iframe src="https://giphy.com/embed/mFIWGAQmsrA2v9XM8s" width="480" height="320" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/mFIWGAQmsrA2v9XM8s">via GIPHY</a></p>
- 
 </p>
+
+<p align="center">
+ <img src="https://giphy.com/embed/mFIWGAQmsrA2v9XM8s.gif"
+</p>
+
 
 <div align="center">
  
