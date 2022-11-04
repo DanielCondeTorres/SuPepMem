@@ -41,8 +41,13 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 </details>
 
 <!-- Introduction --> 
-
-
+### Introduction :movie_camera:
+In SuPepMem the simulations have been performed with the [martini_v2.2](http://cgmartini.nl/) force field, using the [Gromacs 2020](https://www.gromacs.org/) Software, highlighting the following simulation parameters:
+- Simulation length (ns): 5000
+- Electric field (kJ mol-1 nm-1 e-1): 0
+- Temperature (K): 300 (v-rescale)
+- Pressure (Bar): 1 (parrinello-rahman semiisotropic)
+-  Pressure (Bar): 1 (parrinello-rahman semiisotropic)
 
 <!-- Pre-requirements -->
 ### General Pre-requirements :computer:
