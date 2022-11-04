@@ -44,17 +44,24 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 
 In order to run the program it is necessary to have the following requirements installed:
 
-The program is written in Fortran language so a compiler like [gfortran](https://gcc.gnu.org/wiki/GFortran) or equivalent is needed.
-
-Python programs are used to perform statistical analysis of the obtained data. Therefore, Python version 3 or higher is required. Also, for python programs to work properly the following libraries are needed:
-
+The program is written in Python language so Python version 3 or higher is required. Also, for python programs to work properly the following libraries are needed:
+- [Os](https://docs.python.org/3/library/os.html)
+- [Re](https://docs.python.org/3/library/re.html)
+- [Sys](https://docs.python.org/3/library/sys.html)
+- [Json](https://docs.python.org/3/library/json.html)
+- [Time](https://docs.python.org/3/library/time.html)
+- [Argparse](https://docs.python.org/3/library/argparse.html)
+- [Subprocess](https://docs.python.org/3/library/subprocess.html)
+- [Pandas](https://pandas.pydata.org/)
+- [MDAnalysis](https://www.mdanalysis.org/) ç
+- [mpl_toolkits.axes_grid1](https://matplotlib.org/stable/tutorials/toolkits/axes_grid.html)
 - [Numpy](https://numpy.org)
 - [Matplotlib](https://matplotlib.org)
-- [Sys](https://docs.python.org/3/library/sys.html)
+
 
 To be able to use these libraries, it is recommended to work with anaconda environment.
 
-In case the user wishes to see the trajectory generated in the simulation program, the use of the [VMD](https://www.ks.uiuc.edu/Research/vmd/) program is recommended.
+In case the user wishes to see trajectories, the use of the [VMD](https://www.ks.uiuc.edu/Research/vmd/) program is recommended.
 
 <!-- Paralel Code -->
 ### Paralel Code Pre-requirements
@@ -69,19 +76,20 @@ conda install mpi4py openmpi
 
 <!-- Usage -->
 ## Usage ⚙️
-In order to run this program, first one has to choose whether to work with the serial or parallel version. The necessary files are found in the Working_area of each version directory:
-
-- Serial: [Working_area](https://github.com/Eines-Informatiques-Avancades/Project-II/tree/master/Serie/Working_Area)
-- Paralel: [Working_area](https://github.com/Eines-Informatiques-Avancades/Project-II/tree/master/Paralel/Working_Area)
-
-This directory contains the following files:
-
-- **Makefile**: Compiles and executes the whole program. It is also designed to manage all the generated files for a more user-friendly experience.
-- **parameters.txt**: Data file that contains all the parameters related to the system of study (Number of particles, geometry of the lattice (at the moment only sc available), density, mass,...), the data related to the simulation (Initial temperature, initial distribution, thermostat, integration method,...) and a final section where the names of the output data files are defined. Additionaly, this file contains the necessary parameters in order to run correctly the radial distribution function (g(r)) calculation. 
-
-To start using the program, the following command has to be used:
+In order to run this program, the following command has to be used:
 ```
-make all
+python supepmem_analysis.py
+         -tpr SYSTEM_STRUCTURE.tpr
+         -xtc TRAJECTORY.xtc
+         -f   $PATH/TO/FILES
+         -o   $PATH/TO/OUTCOME
+         -dt  SIMULATION_TIMESTEP
+         -it  INITIAL_TIME_SIMULATION
+         -lt  LAST_TIME_SIMULATION
+         -st  SKIP_TIME_BETWEEN_FRAMES
+         -ait INITIAL_TIME_AVERAGES
+         -alt LAST_TIME_AVERAGES
+         -ast SKIP_TIME_BETWEEN_FRAMES_AVERAGING
 ```
 This will compile and execute the program and all the statistic calculations will also be performed. It is **important** to point out that in order to perform the whole program, the user is asked a couple of questions related to the statistical study, so keep an eye on this, otherwise the program will not reach completion.
 
@@ -117,17 +125,12 @@ The program generates an .xyz file containing the trajectory of the system. It i
 
 <!-- DISTRIBUTION OF TASKS -->
 ## Distribution of tasks ✒️ 
-Project coordinator: Àlex Teruel
+Project coordinator: Ángel Piñeiro, M.Bastos and Rebeca García-Fandino
 
-- Main program (Fortran program): Joint work
-- Initial state (Fortran module): Oliver Loveday
-- Boundary conditions (Fortran module): Adrià Calzada
-- Forces (Fortran module): Daniel Conde
-- Integration (Fortran module): Àlex Teruel
-- Radial distribution function (Fortran program): Àlex Teruel
-- Statistics (Python program): Daniel Conde
-- Visualization of Results (Python program): Joint work
-- Makefile: Joint work
+- Main program (Python program): Fabián Suarez-Leston
+- Collaborators: G.F Tolufashe, A.Muñoz, U.Veleiro, M.Calvelo
+- Creation of the SuPepMem website: C.Porto
+-GitHub Designer: Daniel Conde Torres and Álejandro Seco
 
 The joint work tasks will be carried out (to a greater extent) by those members who are more advanced in their corresponding tasks.
 
