@@ -130,7 +130,7 @@ This will execute the program and all the statistic calculations will also be pe
 
 ## Wiki 📖
 
-...Work in progress...
+Additional information about SuPepMem can be found in our [Wiki](https://github.com/DanielCondeTorres/SuPepMem/wiki) (...Work in progress...)
 
 
 <!-- DISTRIBUTION OF TASKS -->
