@@ -144,7 +144,6 @@ Project coordinator: Ángel Piñeiro, M.Bastos and Rebeca García-Fandino
 - Creation of the SuPepMem website: C.Porto
 - GitHub Designer: Daniel Conde Torres and Alejandro Seco
 
-The joint work tasks will be carried out (to a greater extent) by those members who are more advanced in their corresponding tasks.
 
 <!-- FAQs -->
 ## FAQs
