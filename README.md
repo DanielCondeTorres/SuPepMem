@@ -1,4 +1,7 @@
 # SuPepMem
+![imagen](https://user-images.githubusercontent.com/117435891/199971550-dab1fb89-d32c-4c6f-9b3c-1c101475ae7c.png)
+
+
 SuPepMem is an open-access repository containing Molecular Dynamics simulations of different natural and artificial peptides (antimicrobial, anticancer, antiviral, etc) interacting with membrane models for healthy mammal, bacteria, viruses, cancer or senescent cells. 
 
  Citation: F. Suarez-Leston, M. Calvelo, G. F Tolufashe, A. Muñoz, U. Veleiro, C. Porto, M. Bastos, Á. Piñeiro, R. Garcia-Fandino, SuPepMem: A database of innate immune system peptides and their cell membrane interactions, Comput. Struct. Biotechnol. J. 2022, 20, 874-881
@@ -142,6 +145,9 @@ Project coordinator: Ángel Piñeiro, M.Bastos and Rebeca García-Fandino
 ### What is SuPepMem?
 
 SuPepMem is a living project. It is expected to grow with simulations of more peptides in different membrane models and using different atomistic and coarse grained force fields. 
+
+![imagen](https://user-images.githubusercontent.com/117435891/199971517-f9f27119-0f85-4f91-8f05-e9b48a32f27c.png)
+
 
 <!-- CONTRIBUTING -->
 ## Contributing 🖇️
