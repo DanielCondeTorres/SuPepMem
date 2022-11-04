@@ -53,7 +53,7 @@ The program is written in Python language so Python version 3 or higher is requi
 - [Argparse](https://docs.python.org/3/library/argparse.html)
 - [Subprocess](https://docs.python.org/3/library/subprocess.html)
 - [Pandas](https://pandas.pydata.org/)
-- [MDAnalysis](https://www.mdanalysis.org/) ç
+- [MDAnalysis](https://www.mdanalysis.org/) 
 - [mpl_toolkits.axes_grid1](https://matplotlib.org/stable/tutorials/toolkits/axes_grid.html)
 - [Numpy](https://numpy.org)
 - [Matplotlib](https://matplotlib.org)
@@ -63,15 +63,19 @@ To be able to use these libraries, it is recommended to work with anaconda envir
 
 In case the user wishes to see trajectories, the use of the [VMD](https://www.ks.uiuc.edu/Research/vmd/) program is recommended.
 
-<!-- Paralel Code -->
-### Paralel Code Pre-requirements
-In the [Paralel](https://github.com/Eines-Informatiques-Avancades/Project-II/tree/master/Paralel) folder there is a parallelized version of the code in order to have an optimized and faster version of the program. 
 
-To be able to work with this code it is necessary to have the [Open MPI](https://www.open-mpi.org/) package installed, which can be downloaded and installed following the steps indicated on the official website.
-
-If you are working in an anaconda environment, an easy way to install the [Open MPI](https://www.open-mpi.org/) package is to use the following command:
+If you are working in an anaconda environment
 ```
-conda install mpi4py openmpi
+conda install module
+```
+
+or, if you have pip installed:
+
+```
+conda install pip
+```
+```
+pip install module
 ```
 
 <!-- Usage -->
