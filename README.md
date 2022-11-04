@@ -148,7 +148,9 @@ Project coordinator: Ángel Piñeiro, M.Bastos and Rebeca García-Fandino
 
 SuPepMem is a living project. It is expected to grow with simulations of more peptides in different membrane models and using different atomistic and coarse grained force fields. 
 
-![imagen](https://user-images.githubusercontent.com/117435891/199971517-f9f27119-0f85-4f91-8f05-e9b48a32f27c.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/117435891/199971517-f9f27119-0f85-4f91-8f05-e9b48a32f27c.png" />
+</p>
 
 
 <!-- CONTRIBUTING -->
