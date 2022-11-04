@@ -142,7 +142,7 @@ Project coordinator: Ángel Piñeiro, M.Bastos and Rebeca García-Fandino
 - Main program (Python program): Fabián Suarez-Leston
 - Collaborators: G.F Tolufashe, A.Muñoz, U.Veleiro, M.Calvelo
 - Creation of the SuPepMem website: C.Porto
--GitHub Designer: Daniel Conde Torres and Álejandro Seco
+- GitHub Designer: Daniel Conde Torres and Alejandro Seco
 
 The joint work tasks will be carried out (to a greater extent) by those members who are more advanced in their corresponding tasks.
 
