@@ -74,7 +74,8 @@ To be able to use these libraries, it is recommended to work with anaconda envir
 In case the user wishes to see trajectories, the use of the [VMD](https://www.ks.uiuc.edu/Research/vmd/) program is recommended.
 
 
-If you are working in an anaconda environment
+If you are working in an anaconda environment and you need to install a specific module:
+
 ```
 conda install module
 ```
