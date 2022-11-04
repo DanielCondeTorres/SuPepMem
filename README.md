@@ -78,7 +78,7 @@ conda install pip
 pip install module
 ```
 
-* Supepdex is an external module (supepdex.py) of the main program SuPepMem.py needed to ...
+*Supepdex is an external module (supepdex.py) of the main program SuPepMem.py needed to ...
 
 ### Required files 📋
 - A TPR file with the description of the system.
