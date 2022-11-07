@@ -17,7 +17,7 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/117435891/199940424-2ad7347e-bbcb-4425-bfc6-bb7a3fca7413.gif" alt="animated" width="3840" height="640" />
+  <img src="https://user-images.githubusercontent.com/117435891/199940424-2ad7347e-bbcb-4425-bfc6-bb7a3fca7413.gif" alt="animated" width="3840"  />
 </p>
 
 
