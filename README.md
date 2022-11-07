@@ -1,9 +1,8 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/117435891/200289004-db421486-5826-4e49-9c70-ff0aad7a60a9.gif" />
+  <img src="https://user-images.githubusercontent.com/117435891/200289004-db421486-5826-4e49-9c70-ff0aad7a60a9.gif" width="250" height="250" />
 </p>
 
-![giphy](https://user-images.githubusercontent.com/117435891/200289273-883cd6b9-3245-448f-97ae-af0ac1c11541.gif)
 
 
 # SuPepMem database
