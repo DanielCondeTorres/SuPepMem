@@ -3,6 +3,8 @@
   <img src="https://user-images.githubusercontent.com/117435891/200289004-db421486-5826-4e49-9c70-ff0aad7a60a9.gif" width="3840" height="250" />
 </p>
 
+
+<div align="center">
 [![GitHub forks](https://img.shields.io/github/forks/Eines-Informatiques-Avancades/Project-II)](https://github.com/Eines-Informatiques-Avancades/Project-II/network)
 [![GitHub issues](https://img.shields.io/github/issues/Eines-Informatiques-Avancades/Project-II)](https://github.com/Eines-Informatiques-Avancades/Project-II/issues)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Eines-Informatiques-Avancades/Project-II)
@@ -30,7 +32,6 @@ In this repository you can find the scripts used to obtain the SuPepMem trajecto
 </p>
 
 
-<div align="center">
  
 
 
