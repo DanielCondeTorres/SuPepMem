@@ -61,7 +61,6 @@ In SuPepMem the simulations have been performed with the [martini_v2.2](http://c
 - Electric field (kJ mol-1 nm-1 e-1): 0
 - Temperature (K): 300 (v-rescale)
 - Pressure (Bar): 1 (parrinello-rahman semiisotropic)
--  Pressure (Bar): 1 (parrinello-rahman semiisotropic)
 
 <!-- Pre-requirements -->
 ## General Pre-requirements :computer:
